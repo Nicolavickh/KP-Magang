@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="086e8155-57e2-48b4-af7d-2d6178c9309d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controller/AcademicYearController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/AcademicYearController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controller/CompanyController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/CompanyController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controller/InternshipDetailsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/InternshipDetailsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controller/LecturerController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/LecturerController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controller/LecturerDetailsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/LecturerDetailsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controller/PeriodController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/PeriodController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controller/ProfileController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/ProfileController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controller/RoleController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/RoleController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controller/StageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/StageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controller/StudentController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/StudentController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controller/TopicController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/TopicController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/mainPage.php" beforeDir="false" afterPath="$PROJECT_DIR$/View/mainPage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laporan KP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebServices/Database/dbKP.mwb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebServices/Database/dbKP.mwb.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebServices/Database/db_Helper.php" beforeDir="false" afterPath="$PROJECT_DIR$/../WebServices/Database/db_Helper.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ZzhFEF8XqQgGy1dNfz3gyKWRbo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="086e8155-57e2-48b4-af7d-2d6178c9309d" name="Default Changelist" comment="" />
+      <created>1590663371241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590663371241</updated>
+      <workItem from="1590663374348" duration="80000" />
+      <workItem from="1590663917374" duration="248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1590664163217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590664163217" />
+  </component>
+</project>

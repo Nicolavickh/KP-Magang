@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2d09137-ff03-493c-aa70-30d6510bcd4c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/Controller/AcademicYearController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/Controller/AcademicYearController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/Controller/CompanyController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/Controller/CompanyController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/Controller/InternshipDetailsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/Controller/InternshipDetailsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/Controller/LecturerController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/Controller/LecturerController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/Controller/LecturerDetailsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/Controller/LecturerDetailsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/Controller/PeriodController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/Controller/PeriodController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/Controller/ProfileController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/Controller/ProfileController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/Controller/RoleController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/Controller/RoleController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/Controller/StageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/Controller/StageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/Controller/StudentController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/Controller/StudentController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/Controller/TopicController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/Controller/TopicController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/View/mainPage.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/View/mainPage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laporan KP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dao/CompanyDao.php" beforeDir="false" afterPath="$PROJECT_DIR$/Dao/CompanyDao.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dao/InternshipDetailsDao.php" beforeDir="false" afterPath="$PROJECT_DIR$/Dao/InternshipDetailsDao.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database/dbKP.mwb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database/dbKP.mwb.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database/db_Helper.php" beforeDir="false" afterPath="$PROJECT_DIR$/Database/db_Helper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entity/Internship_details.php" beforeDir="false" afterPath="$PROJECT_DIR$/Entity/Internship_details.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/accOrReject_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/accOrReject_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/addCompany_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/addCompany_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/addInternshipDetails_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/addInternshipDetails_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/addLecturerDetails_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/addLecturerDetails_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/addLecturer_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/addLecturer_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/addPeriod_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/addPeriod_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/addRole_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/addRole_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/addStage_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/addStage_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/addStudent_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/addStudent_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/addTopic_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/addTopic_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/addYear_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/addYear_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/checkInternshipStatus_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/checkInternshipStatus_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/companyLogin_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/companyLogin_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/getAcademicYear_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/getAcademicYear_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/getActivePeriod_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/getActivePeriod_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/getAllCompany_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/getAllCompany_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/getAllInternshipDetailsWithStatus_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/getAllInternshipDetailsWithStatus_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/getAllInternshipDetails_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/getAllInternshipDetails_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/getAllLecturerDetails_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/getAllLecturerDetails_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/getAllLecturer_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/getAllLecturer_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/getAllPeriod_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/getAllPeriod_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/getAllRole_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/getAllRole_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/getAllSemester_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/getAllSemester_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/getAllStage_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/getAllStage_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/getAllStudent_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/getAllStudent_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/getAllTopic_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/getAllTopic_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/getAllYear_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/getAllYear_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/getAppliedTopics_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/getAppliedTopics_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/getApplyingStudents_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/getApplyingStudents_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/getCompany_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/getCompany_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/getLecturerDetails_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/getLecturerDetails_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/getLecturer_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/getLecturer_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/getPeriod_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/getPeriod_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/getRole_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/getRole_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/getStage_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/getStage_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/getStudent_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/getStudent_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/getTopic_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/getTopic_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/lecturerLogin_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/lecturerLogin_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/studentLogin_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/studentLogin_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/updateAcademicYear_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/updateAcademicYear_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/updateCompany_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/updateCompany_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/updateLecturerDetails_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/updateLecturerDetails_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/updateLecturer_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/updateLecturer_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/updatePeriodStatus_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/updatePeriodStatus_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/updatePeriod_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/updatePeriod_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/updateRole_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/updateRole_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/updateStage_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/updateStage_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/updateStudent_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/updateStudent_service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/updateTopic_service.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services/updateTopic_service.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ZzfKMt5l5213oCMKpE5q6pqgjx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2d09137-ff03-493c-aa70-30d6510bcd4c" name="Default Changelist" comment="" />
+      <created>1585846778492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585846778492</updated>
+      <workItem from="1585846779581" duration="9000" />
+      <workItem from="1587307280845" duration="3044000" />
+      <workItem from="1590669694333" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
